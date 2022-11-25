@@ -1,6 +1,7 @@
-#Odev2
-#www.patika.dev
-Sayfanıza bir adet resim ekleyin ve bu resime bir açıklama yazın.
-Sevdiğiniz film, dizi ve kitapları bunlar başlıklar olacak şekilde sıralayınız. (Film, dizi, kitap sıralı liste, içerikleri bullet liste olacak şekilde)
-Bunları sıralarken film ve dizilerin en az bir tanesine IMDb linki, kitapların bir tanesine de** Goodreads linkini** yazınız.
-Kurduğunuz yapılarda block, inline gibi elementler kullanmaya çalışın.
+# Odev2
+## www.patika.dev
+### İşlemler
+* Sayfanıza bir adet resim ekleyin ve bu resime bir açıklama yazın.
+* Sevdiğiniz film, dizi ve kitapları bunlar başlıklar olacak şekilde sıralayınız. (Film, dizi, kitap sıralı liste, içerikleri bullet liste olacak şekilde)
+* Bunları sıralarken film ve dizilerin en az bir tanesine IMDb linki, kitapların bir tanesine de** Goodreads linkini** yazınız.
+* Kurduğunuz yapılarda block, inline gibi elementler kullanmaya çalışın.
